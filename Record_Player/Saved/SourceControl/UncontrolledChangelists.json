@@ -1,0 +1,21 @@
+{
+	"version": 1,
+	"changelists": [
+		{
+			"guid": "00000000000000000000000000000000",
+			"description": "Default Uncontrolled Changelist",
+			"files": [
+				"C:/Users/anton/Documents/Unreal Projects/Record_Player/Content/MainScene.umap",
+				"C:/Users/anton/Documents/Unreal Projects/Record_Player/Content/Materials/Floor.uasset",
+				"C:/Users/anton/Documents/Unreal Projects/Record_Player/Content/UI/UI.uasset",
+				"C:/Users/anton/Documents/Unreal Projects/Record_Player/Content/Blueprints/1BP.uasset",
+				"C:/Users/anton/Documents/Unreal Projects/Record_Player/Content/Animation/Animation_Blueprint/NewAnimBlueprint.uasset",
+				"C:/Users/anton/Documents/Unreal Projects/Record_Player/Content/UI/NewBlueprint.uasset",
+				"C:/Users/anton/Documents/Unreal Projects/Record_Player/Content/Megascans/Surfaces/Seychelles_Beige_Marble_wfrqcjkv/MI_Seychelles_Beige_Marble_wfrqcjkv_8K.uasset",
+				"C:/Users/anton/Documents/Unreal Projects/Record_Player/Content/Megascans/Surfaces/Seychelles_Beige_Marble_wfrqcjkv/T_SeychellesBeigeMarble_wfrqcjkv_8K_ORDp.uasset",
+				"C:/Users/anton/Documents/Unreal Projects/Record_Player/Content/Megascans/Surfaces/Seychelles_Beige_Marble_wfrqcjkv/T_Seychelles_Beige_Marble_wfrqcjkv_8K_D.uasset",
+				"C:/Users/anton/Documents/Unreal Projects/Record_Player/Content/Megascans/Surfaces/Seychelles_Beige_Marble_wfrqcjkv/MI_Seychelles_Beige_Marble_wfrqcjkv_2K.uasset"
+			]
+		}
+	]
+}
